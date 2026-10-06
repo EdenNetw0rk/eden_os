@@ -1,6 +1,6 @@
 {
   "schema": 1,
   "resource": "eden_os",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "download": "https://portal.cfx.re/assets/granted-assets"
 }
